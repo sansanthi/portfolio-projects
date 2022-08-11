@@ -12,29 +12,21 @@
             "description": "This project was a front-end  challenge from Frontend Mentor. It’s a platform that enables you to practice building websites to a design and project brief. Each challenge includes mobile and desktop designs to show how the website should look at different screen sizes. Creating these projects has helped me refine my workflow and solve real-world coding problems. I’ve learned something new with each project, helping me to improve and adapt my style.",
             "design": ["Interaction Design", "Front End Development"],
             "tech": ["HTML", "CSS", "JSS"],
-            "detailsPictures": [
-                {
-                    "main": {
-                        "desktop": "./images/detail/desktop/image-manage-hero@2x.jpg",
-                        "tablet": "./images/detail/tablet/image-manage-hero@2x.jpg",
-                        "mobile": "./images/detail/mobile/image-manage-hero@2x.jpg"
-                    }
-                },
-                {
-                    "preview1": {
-                        "desktop": "./images/detail/desktop/image-manage-preview-1@2x.jpg",
-                        "tablet": "./images/detail/tablet/image-manage-preview-1@2x.jpg",
-                        "mobile": "./images/detail/mobile/image-manage-preview-1@2x.jpg"
-                    }
-                },
-                {
-                    "preview2": {
-                        "desktop": "./images/detail/desktop/image-manage-preview-2@2x.jpg",
-                        "tablet": "./images/detail/tablet/image-manage-preview-2@2x.jpg",
-                        "mobile": "./images/detail/mobile/image-manage-preview-2@2x.jpg"
-                    }
-                }
-            ]
+            "mainPicture": {
+                "desktop": "./images/detail/desktop/image-manage-hero@2x.jpg",
+                "tablet": "./images/detail/tablet/image-manage-hero@2x.jpg",
+                "mobile": "./images/detail/mobile/image-manage-hero@2x.jpg"
+            },
+            "previewPicture1": {
+                "desktop": "./images/detail/desktop/image-manage-preview-1@2x.jpg",
+                "tablet": "./images/detail/tablet/image-manage-preview-1@2x.jpg",
+                "mobile": "./images/detail/mobile/image-manage-preview-1@2x.jpg"
+            },
+            "previewPicture2": {
+                "desktop": "./images/detail/desktop/image-manage-preview-2@2x.jpg",
+                "tablet": "./images/detail/tablet/image-manage-preview-2@2x.jpg",
+                "mobile": "./images/detail/mobile/image-manage-preview-2@2x.jpg"
+            }
         }
     },
     {
@@ -50,29 +42,21 @@
             "description": "This project was a front-end  challenge from Frontend Mentor. It’s a platform that enables you to practice building websites to a design and project brief. Each challenge includes mobile and desktop designs to show how the website should look at different screen sizes. Creating these projects has helped me refine my workflow and solve real-world coding problems. I’ve learned something new with each project, helping me to improve and adapt my style.",
             "design": ["Interaction Design", "Front End Development"],
             "tech": ["HTML", "CSS", "JSS"],
-            "detailsPictures": [
-                {
-                    "main": {
-                        "desktop": "./images/detail/desktop/image-bookmark-hero@2x.jpg",
-                        "tablet": "./images/detail/tablet/image-bookmark-hero@2x.jpg",
-                        "mobile": "./images/detail/mobile/image-bookmark-hero@2x.jpg"
-                    }
-                },
-                {
-                    "preview1": {
-                        "desktop": "./images/detail/desktop/image-bookmark-preview-1@2x.jpg",
-                        "tablet": "./images/detail/tablet/image-bookmark-preview-1@2x.jpg",
-                        "mobile": "./images/detail/mobile/image-bookmark-preview-1@2x.jpg"
-                    }
-                },
-                {
-                    "preview2": {
-                        "desktop": "./images/detail/desktop/image-bookmark-preview-2@2x.jpg",
-                        "tablet": "./images/detail/tablet/image-bookmark-preview-2@2x.jpg",
-                        "mobile": "./images/detail/mobile/image-bookmark-preview-2@2x.jpg"
-                    }
-                }
-            ]
+            "mainPicture": {
+                "desktop": "./images/detail/desktop/image-bookmark-hero@2x.jpg",
+                "tablet": "./images/detail/tablet/image-bookmark-hero@2x.jpg",
+                "mobile": "./images/detail/mobile/image-bookmark-hero@2x.jpg"
+            },
+            "previewPicture1": {
+                "desktop": "./images/detail/desktop/image-bookmark-preview-1@2x.jpg",
+                "tablet": "./images/detail/tablet/image-bookmark-preview-1@2x.jpg",
+                "mobile": "./images/detail/mobile/image-bookmark-preview-1@2x.jpg"
+            },
+            "previewPicture2": {
+                "desktop": "./images/detail/desktop/image-bookmark-preview-2@2x.jpg",
+                "tablet": "./images/detail/tablet/image-bookmark-preview-2@2x.jpg",
+                "mobile": "./images/detail/mobile/image-bookmark-preview-2@2x.jpg"
+            }
         }
     },
     {
@@ -88,29 +72,22 @@
             "description": "This project was a front-end  challenge from Frontend Mentor. It’s a platform that enables you to practice building websites to a design and project brief. Each challenge includes mobile and desktop designs to show how the website should look at different screen sizes. Creating these projects has helped me refine my workflow and solve real-world coding problems. I’ve learned something new with each project, helping me to improve and adapt my style.",
             "design": ["Interaction Design", "Front End Development"],
             "tech": ["HTML", "CSS", "JSS"],
-            "detailsPictures": [
-                {
-                    "main": {
-                        "desktop": "./images/detail/desktop/image-insure-hero@2x.jpg",
-                        "tablet": "./images/detail/tablet/image-insure-hero@2x.jpg",
-                        "mobile": "./images/detail/mobile/image-insure-hero@2x.jpg"
-                    }
-                },
-                {
-                    "preview1": {
-                        "desktop": "./images/detail/desktop/image-insure-preview-1@2x.jpg",
-                        "tablet": "./images/detail/tablet/image-insure-preview-1@2x.jpg",
-                        "mobile": "./images/detail/mobile/image-insure-preview-1@2x.jpg"
-                    }
-                },
-                {
-                    "preview2": {
-                        "desktop": "./images/detail/desktop/image-insure-preview-2@2x.jpg",
-                        "tablet": "./images/detail/tablet/image-insure-preview-2@2x.jpg",
-                        "mobile": "./images/detail/mobile/image-insure-preview-2@2x.jpg"
-                    }
-                }
-            ]
+            "mainPicture": {
+                "desktop": "./images/detail/desktop/image-insure-hero@2x.jpg",
+                "tablet": "./images/detail/tablet/image-insure-hero@2x.jpg",
+                "mobile": "./images/detail/mobile/image-insure-hero@2x.jpg"
+            },
+            "previewPicture1": {
+                "desktop": "./images/detail/desktop/image-insure-preview-1@2x.jpg",
+                "tablet": "./images/detail/tablet/image-insure-preview-1@2x.jpg",
+                "mobile": "./images/detail/mobile/image-insure-preview-1@2x.jpg"
+            },
+            "previewPicture2": {
+                "desktop": "./images/detail/desktop/image-insure-preview-2@2x.jpg",
+                "tablet": "./images/detail/tablet/image-insure-preview-2@2x.jpg",
+                "mobile": "./images/detail/mobile/image-insure-preview-2@2x.jpg"
+            }
+            
         }
     },
     {
@@ -126,29 +103,21 @@
             "description": "This project was a front-end  challenge from FrontEnd Mentor. It’s a platform that enables you to practice building websites to a design and project brief. Each challenge includes mobile and desktop designs to show how the website should look at different screen sizes. Creating these projects has helped me refine my workflow and solve real-world coding problems. I’ve learned something new with each project, helping me to improve and adapt my style.",
             "design": ["Interaction Design", "Front End Development"],
             "tech": ["HTML", "CSS", "JSS"],
-            "detailsPictures": [
-                {
-                    "main": {
-                        "desktop": "./images/detail/desktop/image-fylo-hero@2x.jpg",
-                        "tablet": "./images/detail/tablet/image-fylo-hero@2x.jpg",
-                        "mobile": "./images/detail/mobile/image-fylo-hero@2x.jpg"
-                    }
-                },
-                {
-                    "preview1": {
-                        "desktop": "./images/detail/desktop/image-fylo-preview-1@2x.jpg",
-                        "tablet": "./images/detail/tablet/image-fylo-preview-1@2x.jpg",
-                        "mobile": "./images/detail/mobile/image-fylo-preview-1@2x.jpg"
-                    }
-                },
-                {
-                    "preview2": {
-                        "desktop": "./images/detail/desktop/image-fylo-preview-2@2x.jpg",
-                        "tablet": "./images/detail/tablet/image-fylo-preview-2@2x.jpg",
-                        "mobile": "./images/detail/mobile/image-fylo-preview-2@2x.jpg"
-                    }
-                }
-            ]
+            "mainPicture": {
+                "desktop": "./images/detail/desktop/image-fylo-hero@2x.jpg",
+                "tablet": "./images/detail/tablet/image-fylo-hero@2x.jpg",
+                "mobile": "./images/detail/mobile/image-fylo-hero@2x.jpg"
+            },
+            "previewPicture1": {
+                "desktop": "./images/detail/desktop/image-fylo-preview-1@2x.jpg",
+                "tablet": "./images/detail/tablet/image-fylo-preview-1@2x.jpg",
+                "mobile": "./images/detail/mobile/image-fylo-preview-1@2x.jpg"
+            },
+            "previewPicture2": {
+                "desktop": "./images/detail/desktop/image-fylo-preview-2@2x.jpg",
+                "tablet": "./images/detail/tablet/image-fylo-preview-2@2x.jpg",
+                "mobile": "./images/detail/mobile/image-fylo-preview-2@2x.jpg"
+            }
         }
     }
  ]
