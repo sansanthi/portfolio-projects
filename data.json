@@ -150,5 +150,43 @@
                 "mobile": "./images/projectImages/desktop/sunnyside-preview-2.jpg"
             }
         }
+    },
+     {
+        "id": 5,
+        "projectName": "Password Generator",
+        "projectDescription": "This project is written with HTML, CSS and React. Its purpose is to generate random password basedd on user selected options and copy the generated password and see the strength rating of password",
+        "projectLink": "https://password-generator-fmentor.netlify.app/",
+        "viewPictures": {
+            "desktop": "./images/projectImages/desktop/passwordgen-desktop-main.jpg",
+            "tablet": "./images/projectImages/desktop/passwordgen-desktop-main.jpg",
+            "mobile": "./images/projectImages/desktop/passwordgen-desktop-main.jpg"
+        },
+        "details": {
+            "description": "This project was a front-end  challenge from Frontend Mentor. It’s a platform that enables you to practice building websites to a design and project brief. Each challenge includes mobile and desktop designs to show how the website should look at different screen sizes. Creating these projects has helped me refine my workflow and solve real-world coding problems. I’ve learned something new with each project, helping me to improve and adapt my style.",
+            "design": [
+                "Interaction Design",
+                "Front End Development"
+            ],
+            "tech": [
+                "HTML",
+                "CSS",
+                "React"
+            ],
+            "mainPicture": {
+                "desktop": "./images/projectImages/desktop/passwordgen-desktop-main.jpg",
+                "tablet": "./images/projectImages/desktop/passwordgen-desktop-main.jpg",
+                "mobile": "./images/projectImages/desktop/passwordgen-desktop-main.jpg"
+            },
+            "previewPicture1": {
+                "desktop": "./images/projectImages/desktop/passwordgen-preview-1.jpg",
+                "tablet": "./images/projectImages/desktop/passwordgen-preview-1.jpg",
+                "mobile": "./images/projectImages/desktop/passwordgen-preview-1.jpg"
+            },
+            "previewPicture2": {
+                "desktop": "./images/projectImages/desktop/passwordgen-preview-2.jpg",
+                "tablet": "./images/projectImages/desktop/passwordgen-preview-2.jpg",
+                "mobile": "./images/projectImages/desktop/passwordgen-preview-2.jpg"
+            }
+        }
     }
 ]
